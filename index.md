@@ -19,7 +19,7 @@ Our application is currently in its early stages of development..
 Below are screenshot of the pages that we have implemented into our application so far.  
 
 ### Login and Registering
-When the user first arrives to the application, they will be asked to sign-in if they are a current user. If they are not a current user, they have the option to register using the "register" link at the borrom right of the container. This will take the user to the register page where they create an account with the application. 
+When the user first arrives to the application, they will be asked to sign-in if they are a current user. If they are not a current user, they have the option to register using the "register" link at the bottom right of the container. This will take the user to the register page where they create an account with the application. 
 
 ![](images/login.png)
 
