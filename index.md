@@ -7,6 +7,7 @@
 * [Development History](#development-history)
 * [Contact Us](#contact-us)
 
+![ci-badge](https://github.com/Covid-Sight/covid-sight/workflows/ci-covidsight/badge.svg)
 
 ## Overview
 Welcome to Covidsight! The goal of this project is to create an application that will be used as a "warm up" for two HACC events that our group will be participating in. This application is to be build as a requirement for ICS 496 as the University of Hawaii at Manoa. This application is to act as a COVID-19 tracking application, similar to the University of Hawaii's COVID-19 tracking application _**[Lumisight](https://www.hawaii.edu/its/covid-19-resources/about-lumisight-uh/)**_.
