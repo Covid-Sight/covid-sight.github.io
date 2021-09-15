@@ -26,6 +26,25 @@ When the user first arrives to the application, they will be asked to sign-in if
 
 ![](images/register.png)
 
+### Home Page
+Upon successfully logging in or signing up, the user will be redirected to the homepage where there is a health check-in and a vaccine upload section. The user is able to check-in their health on a daily basis and also have an option to enter their vaccine information. On the side there are additional resources available relating to COVID-19.
+
+![](images/home.png)
+
+### Health Check-in 
+If you click on either the Health icon on the side nav bar or the "Check Your Symptoms" button in the Daily Health Check-in box, it will take you to a page where you answer yes or no to the following question. 
+
+![](images/checkin.png)
+
+### Check-in History
+Upon answering yes or no to the health check-in prompt, your response will be recorded in this page where it lists down all of your previous check-ins. You can also edit your response by clicking on the edit button where it will navigate you to the same prompt to answer yes or no and it will update your response. You can also naviage to this history page by clicking on "History" button in the Health Check-in box on the homepage.
+
+![](images/history.png)
+
+### Vaccine
+If you have been vaccinated and want to upload your vaccine information, you can click on "Vaccine" on the side nav bar or "Upload Your Vaccine Information" in the vaccine box on the homepage. The user will be taken to the vaccine upload page where they will enter the following information.
+
+![](images/vaccine.png)
 
 ## Developer Guide
 If you wish to install the _**CovidSight**_ application locally, you can follow the directions below. 
