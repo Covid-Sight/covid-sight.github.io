@@ -42,7 +42,7 @@ Upon answering yes or no to the health check-in prompt, your response will be re
 ![](images/history.png)
 
 ### Vaccine
-If you have been vaccinated and want to upload your vaccine information, you can click on "Vaccine" on the side nav bar or "Upload Your Vaccine Information" in the vaccine box on the homepage. The user will be taken to the vaccine upload page where they will enter the following information.
+If you have been vaccinated and want to upload your vaccine information, you can click on "Vaccine" on the side nav bar or "Upload Your Vaccine Information" in the vaccine box on the homepage. The user will be taken to the vaccine upload page where they will enter the following information. As of now, uploaded vaccine status does not update on homepage, but will be implemented in milestone 2.
 
 ![](images/vaccine.png)
 
