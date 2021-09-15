@@ -16,13 +16,15 @@ Welcome to Covidsight! The goal of this project is to create an application that
 As stated above, our goal is to create a COVID-19 tracking application that mimics the functionality of _**Lumisight**_. This application will allow logged in users to log if they are experiencing COVID-19 symptoms or not. This will be done by having the user answer a quick survey asking if they have any of the COVID-19 symptoms listed. The user will then have the ability to click "yes" or "no". Upon submission of the user answer, the user answer will be stored and displayed on another page of the application with the data of the submission, acting as a record for the user. This status can be changed at any part of the day if the user chooses to resubmit their answer. The application will also allow the user to upload information about their vaccination status by having them upload an image of their vaccine card if necessary.
 
 ## User Guide
-Our application is currently in its early stages of development..
+Our application is currently in its early stages of development.. Our application is currently deployed _**[here](https://covid-sight.meteorapp.com/)**_.
 Below are screenshot of the pages that we have implemented into our application so far.  
 
 ### Login and Registering
 When the user first arrives to the application, they will be asked to sign-in if they are a current user. If they are not a current user, they have the option to register using the "register" link at the bottom right of the container. This will take the user to the register page where they create an account with the application. 
 
 ![](images/login.png)
+
+![](images/register.png)
 
 
 ## Developer Guide
