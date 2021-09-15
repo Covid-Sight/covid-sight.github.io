@@ -112,10 +112,10 @@ $ meteor npm run lint
 
 ## Development History
 ### Milestone 1 
-Homepage landing & Side Nav Bar implementation - Kyra Ikeda
-Vaccine Page Implementation - Eric Lam
-Configuring tests & Implement log in page - Glen Larita
-Check in Page Implementation - Chase Lee
+Homepage landing & Side Nav Bar implementation - Kyra Ikeda <br />
+Vaccine Page Implementation - Eric Lam <br />
+Configuring tests & Implement log in page - Glen Larita <br />
+Check in Page Implementation - Chase Lee <br />
 Register Page Implementation and deploy - Irene Ma
 
 ## Contact Us
