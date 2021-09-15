@@ -112,7 +112,11 @@ $ meteor npm run lint
 
 ## Development History
 ### Milestone 1 
-In progress..
+Homepage landing & Side Nav Bar implementation - Kyra Ikeda
+Vaccine Page Implementation - Eric Lam
+Configuring tests & Implement log in page - Glen Larita
+Check in Page Implementation - Chase Lee
+Register Page Implementation and deploy - Irene Ma
 
 ## Contact Us
 If you would like to contact the creators of _**CovidSight**_ you can email us at:
