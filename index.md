@@ -16,28 +16,28 @@ Welcome to CovidSight! The goal of this project is to create an application that
 As stated above, our goal is to create a COVID-19 tracking application that mimics the functionality of _**Lumisight**_. This application will allow logged in users to log whether they are experiencing COVID-19 symptoms or not. This will be done by having the user answer a quick survey asking if they have any of the COVID-19 symptoms listed. The user will then have the ability to click "yes" or "no". Upon submission of the user answer, the user answer will be stored and displayed on another page of the application with the data of the submission, acting as a record for the user. This status can be changed at any part of the day if the user chooses to resubmit their answer. The application will also allow the user to upload information about their vaccination status by having them upload an image of their vaccine card.
 
 ## User Guide
-Our application is currently in its early stages of development. Our application is currently deployed _**[here](https://covid-sight.meteorapp.com/)**_.
-Below are screenshot of the pages that we have implemented into our application so far.  
+Our application is currently in its early stages of development. It is currently deployed _**[here](https://covid-sight.meteorapp.com/)**_.
+Below are screenshots of the pages that we have implemented into our application so far.  
 
 ### Login and Registering
-When the user first arrives to the application, they will be asked to sign-in if they are a current user. If they are not a current user, they have the option to register using the "register" link at the bottom right of the container. This will take the user to the register page where they create an account with the application. 
+When the user first arrives to the application, they will be asked to sign-in if they are a current user. If they are not a current user, they have the option to register using the "register" link at the bottom right of the container. This will take the user to the register page where they can create an account with the application. 
 
 ![](images/login.png)
 
 ![](images/register.png)
 
 ### Home Page
-Upon successfully logging in or signing up, the user will be redirected to the homepage where there is a health check-in and a vaccine upload section. The user is able to check-in their health on a daily basis and also have an option to enter their vaccine information. On the side there are additional resources available relating to COVID-19.
+Upon successfully logging in or signing up, the user will be redirected to the homepage where there is a health check-in and a vaccine upload section. These sections are outlined in red if the user needs to fill out information for that section or green if the user completed that section. The user is able to check-in their health on a daily basis and also have an option to enter their vaccine information. On the side there are additional resources available relating to COVID-19.
 
 ![](images/home.png)
 
 ### Health Check-in 
-If you click on either the Health icon on the side nav bar or the "Check Your Symptoms" button in the Daily Health Check-in box, it will take you to a page where you answer yes or no to the following question. 
+If you click on either the Health icon on the side nav bar or the "Check Your Symptoms" button in the Daily Health Check-in box, it will take you to a page where you answer "yes" or "no" to the following question. 
 
 ![](images/checkin.png)
 
 ### Check-in History
-Upon answering yes or no to the health check-in prompt, your response will be recorded in this page where it lists down all of your previous check-ins. You can also edit your response by clicking on the edit button where it will navigate you to the same prompt to answer yes or no and it will update your response. You can also naviage to this history page by clicking on "History" button in the Health Check-in box on the homepage.
+Upon answering "yes" or "no" to the health check-in prompt, your response will be recorded in this page where it lists down all of your previous check-ins. You can also edit your response by clicking on the edit button where it will navigate you to the same prompt to answer "yes" or "no" and will update your response. You can also naviage to this history page by clicking on the "History" button in the Health Check-in box on the homepage.
 
 ![](images/history.png)
 
