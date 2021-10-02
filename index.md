@@ -29,7 +29,7 @@ When the user first arrives to the application, they will be asked to sign-in if
 ### Home Page
 Upon successfully logging in or signing up, the user will be redirected to the homepage where there is a health check-in and a vaccine upload section. These sections are outlined in red if the user needs to fill out information for that section or green if the user completed that section. The user is able to check-in their health on a daily basis and also have an option to enter their vaccine information. On the side there are additional resources available relating to COVID-19.
 
-![](images/home.png)
+![](images/viewvaccine.png)
 
 ### Health Check-in 
 If you click on either the Health icon on the side nav bar or the "Check Your Symptoms" button in the Daily Health Check-in box, it will take you to a page where you answer "yes" or "no" to the following question. 
@@ -45,6 +45,16 @@ Upon answering "yes" or "no" to the health check-in prompt, your response will b
 If you have been vaccinated and want to upload your vaccine information, you can click on "Vaccine" on the side nav bar or "Upload Your Vaccine Information" in the vaccine box on the homepage. The user will be taken to the vaccine upload page where they will enter the following information. As of now, uploaded vaccine status does not update on homepage, but will be implemented in milestone 2.
 
 ![](images/vaccine.png)
+
+### View Vaccine
+If you click the "View Vaccine" button on the home page, it redirects you to the vaccine-page, this is where all of your inputted information for vaccine is put. There will also be a vaccination card image accompanied with it on the right column. You can also delete the current vaccine information inputted.
+
+![](images/vaccinecard.png)
+
+### Homepage - Cleared for COVID
+Once a daily check up has been made through the health check and a vaccine card has been submitted through the Vaccine page, the border of the home page widgets will turn green instead of red. This allows the user to easily see that they have successfully checked in and submitted their vaccine information to the application.
+
+![](images/ClearedCovidSight.png)
 
 ## Developer Guide
 If you wish to install the _**CovidSight**_ application locally, you can follow the directions below. 
