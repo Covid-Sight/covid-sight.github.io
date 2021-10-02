@@ -128,6 +128,13 @@ Configuring tests & Implement log in page - Glen Larita <br />
 Check in Page Implementation - Chase Lee <br />
 Register Page Implementation and deploy - Irene Ma
 
+### Milestone 2 
+Add health status to home page - Kyra Ikeda <br />
+Fixed date input - Eric Lam <br />
+Test case for Add Vaccine and Create Vaccine View - Glen Larita <br />
+Update Documentation - Chase Lee <br />
+Add vaccination status to home page - Irene Ma
+
 ## Contact Us
 If you would like to contact the creators of _**CovidSight**_ you can email us at:
 
