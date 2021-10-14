@@ -68,6 +68,7 @@ and install the necessary libraries by invoking meteor npm install:
 
 ```
 $ meteor npm install
+$ npm install axios
 ```
 
 After meteor is installed, you can run the application by typing in the command:
