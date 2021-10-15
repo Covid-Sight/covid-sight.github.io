@@ -47,7 +47,7 @@ If you have been vaccinated and want to upload your vaccine information, you can
 ![](images/vaccine.png)
 
 ### View Vaccine
-If you click the "View Vaccine" button on the home page, it redirects you to the vaccine-page, this is where all of your inputted information for the vaccine is displayed. The vaccination card image will also accompany the vaccine information on the right column. You can also delete the current vaccine information inputted.
+If you click the "View Vaccine" button on the home page, it redirects you to the vaccine-page. This is where all of your inputted information for the vaccine is displayed. The vaccination card image will also accompany the vaccine information on the right column. You can also delete the current vaccine information inputted.
 
 ![](images/covidsight.png)
 
