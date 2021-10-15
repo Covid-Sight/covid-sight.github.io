@@ -47,9 +47,9 @@ If you have been vaccinated and want to upload your vaccine information, you can
 ![](images/vaccine.png)
 
 ### View Vaccine
-If you click the "View Vaccine" button on the home page, it redirects you to the vaccine-page, this is where all of your inputted information for vaccine is put. There will also be a vaccination card image accompanied with it on the right column. You can also delete the current vaccine information inputted.
+If you click the "View Vaccine" button on the home page, it redirects you to the vaccine-page, this is where all of your inputted information for the vaccine is displayed. The vaccination card image will also accompany the vaccine information on the right column. You can also delete the current vaccine information inputted.
 
-![](images/vaccinecard.png)
+![](images/covidsight.png)
 
 ### Homepage - Cleared for COVID
 Once a daily check up has been made through the health check and a vaccine card has been submitted through the Vaccine page, the border of the home page widgets will turn green instead of red. This allows the user to easily see that they have successfully checked in and submitted their vaccine information to the application.
@@ -135,6 +135,13 @@ Fixed date input - Eric Lam <br />
 Test case for Add Vaccine and Create Vaccine View - Glen Larita <br />
 Update Documentation - Chase Lee <br />
 Add vaccination status to home page - Irene Ma
+
+### Milestone 3 
+Update function for Covid-19 status color border - Kyra Ikeda <br />
+Review final issue and website- Eric Lam <br />
+Test case for Add Vaccine and Create Vaccine View - Glen Larita <br />
+Review final issue and website - Chase Lee <br />
+QA testing and deploy final project. - Irene Ma
 
 ## Contact Us
 If you would like to contact the creators of _**CovidSight**_ you can email us at:
